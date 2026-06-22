@@ -1,0 +1,20 @@
+﻿current_track: "Master Core"
+current_stage: "Python from zero"
+current_lesson: 5
+current_topic: "Week 1 review, Git basics, English Core"
+status: "lesson_4_completed"
+last_checkpoint: "2026-06-22: Lessons 1-4 completed - variables, types, operators, if/elif/else, for, list, range(), while"
+next_command_expected: "Repeat lessons 2-4 in your own words, then continue with Git basics or English Core"
+week_focus:
+  - "Python basics"
+  - "Git init/add/commit"
+  - "English terminology"
+  - "code reading discipline"
+long_term_target: "AI Industrial Architect / Research Engineer"
+study_mode:
+  schedule: "2/2"
+  work_days_minutes_max: 30
+  off_days_hours_max: 6
+language_policy:
+  primary: "Russian"
+  secondary: "English terminology gradually increased"
