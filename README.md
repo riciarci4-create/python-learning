@@ -1,40 +1,28 @@
-﻿# AI/ML Learning Workspace
+# Python & AI/ML Learning Journey
 
-This workspace is the operational base for a long-term training track toward `AI Industrial Architect / Research Engineer`.
+Learning path from zero to AI Engineer. Focus: industrial systems, robotics, computer vision.
 
-## Purpose
+## Goal
 
-- keep lessons, solutions, reviews, and project artifacts in one place;
-- track progress without relying on memory;
-- build a portfolio gradually from fundamentals to production-grade systems.
+Build a strong foundation in Python, data, and ML over 6 months. Long-term target: AI Industrial Architect / Research Engineer.
 
-## Working Model
+## Track
 
-- study track: `Master Core -> xAI Core -> Industrial Core`;
-- current stage: `Master Core / Python from zero`;
-- schedule: `2/2`;
-- work days: short sessions up to `30 min`;
-- off days: deep work up to `6 h`.
+`Python & Git` → `Data & SQL` → `Classical ML` → `Computer Vision` → `MLOps` → `Final Project`
 
-## Command Protocol
+## Stack
 
-- `НАЧИНАЕМ` -> start the next lesson from the current checkpoint;
-- `ГОТОВО` -> review the result and either advance or reinforce weak points;
-- `СТОП` -> freeze current position and summarize what is fixed;
-- `ПРОДОЛЖИМ` -> resume from the last fixed point.
+- Python 3.13
+- Git / GitHub
+- VS Code
+- scikit-learn, OpenCV, FastAPI, Docker, MLflow (planned)
 
 ## Structure
 
-- `docs/` -> core documents and roadmaps;
-- `state/` -> current learning state and checkpoints;
-- `journal/` -> progress log and session records;
-- `lessons/` -> lesson materials and completed lesson outputs;
-- `practice/` -> exercises and short coding tasks;
-- `projects/` -> mini-projects and portfolio work;
-- `reviews/` -> code review notes and architecture remarks;
-- `notes/` -> topic notes and terminology;
-- `assets/` -> local datasets, diagrams, and supporting files.
+- `month1/`, `month2/` ... — lesson files by month and week
+- `projects/` — mini-projects and portfolio work
+- `notes/` — topic notes and terminology
 
-## Next Step
+## Current Status
 
-The next operational step is `Lesson 1: Python variables, types, and operations in engineering context`.
+Month 1 — Python + Git. Completed: variables, types, operators, conditions, loops, functions, dictionaries, strings, Git basics.
