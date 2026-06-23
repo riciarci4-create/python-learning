@@ -1,17 +1,14 @@
-﻿current_track: "Master Core"
+current_track: "Master Core"
 current_stage: "Python from zero"
-current_lesson: 5
-current_topic: "Week 1 debt closure: Math Core and English Core"
-status: "week_1_code_completed_math_english_debt_open"
-last_checkpoint: "2026-06-22: Lessons 1-5 completed - variables, types, operators, if/elif/else, for, list, range(), while, Git (init/add/commit/log)"
-next_command_expected: "Close Week 1 Math/English debt, then start Week 2 — functions, dictionaries, strings, GitHub"
+current_lesson: 10
+current_topic: "Week 2 — mini-project: calculator DONE, next: Week 2 exam (Level 1)"
+status: "lesson_10_completed_week2_calculator_done"
+last_checkpoint: "2026-06-23: Lesson 10 completed - calculator mini-project, functions, if/elif/else, ZeroDivision handling, PEP8"
+next_command_expected: "Week 2 Level 1 exam (15 min, 3-5 questions), then push calculator to GitHub with README"
 week_focus:
-  - "Python basics"
-  - "Git init/add/commit"
-  - "Math Core debt: comparisons, ranges, counters"
-  - "English Core debt: Python and Git terminology"
-  - "English terminology"
-  - "code reading discipline"
+  - "functions, dicts, strings"
+  - "GitHub push workflow"
+  - "mini-project: calculator"
 long_term_target: "AI Industrial Architect / Research Engineer"
 study_mode:
   schedule: "2/2"
@@ -20,3 +17,5 @@ study_mode:
 language_policy:
   primary: "Russian"
   secondary: "English terminology gradually increased"
+anki_cards_total: 68
+debts: "Math Core + English Core урок 10 — закрыть на следующей сессии"
