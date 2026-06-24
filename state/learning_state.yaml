@@ -1,10 +1,10 @@
 current_track: "Master Core"
 current_stage: "Python from zero"
-current_lesson: 10
-current_topic: "Week 2 — mini-project: calculator DONE, next: Week 2 exam (Level 1)"
-status: "lesson_10_completed_week2_calculator_done"
-last_checkpoint: "2026-06-23: Lesson 10 completed - calculator mini-project, functions, if/elif/else, ZeroDivision handling, PEP8"
-next_command_expected: "Week 2 Level 1 exam (15 min, 3-5 questions), then push calculator to GitHub with README"
+current_lesson: 11
+current_topic: "Week 3 — try/except, files, modules"
+status: "lesson_11_completed_week3_in_progress"
+last_checkpoint: "2026-06-24: Lesson 11 completed - try/except, ValueError, ZeroDivisionError, multiple except blocks"
+next_command_expected: "Lesson 12: files (open, read, write) or VS Code debugger"
 week_focus:
   - "functions, dicts, strings"
   - "GitHub push workflow"
@@ -18,4 +18,4 @@ language_policy:
   primary: "Russian"
   secondary: "English terminology gradually increased"
 anki_cards_total: 68
-debts: "Math Core + English Core урок 10 — закрыть на следующей сессии"
+debts: "none"
