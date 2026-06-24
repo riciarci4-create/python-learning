@@ -18,3 +18,7 @@ Thumbs.db
 
 # Local data
 assets/tmp/
+
+# Personal/mentor files
+CLAUDE.md
+PROGRESS.md
