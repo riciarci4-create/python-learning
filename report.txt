@@ -1,0 +1,4 @@
+Всего записей 7
+Записей CNC 3
+Записей Spindle 2
+Записей Program running 2

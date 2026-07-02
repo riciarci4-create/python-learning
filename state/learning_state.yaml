@@ -1,10 +1,10 @@
 current_track: "Master Core"
 current_stage: "Python from zero"
-current_lesson: 11
-current_topic: "Week 3 — try/except, files, modules"
-status: "lesson_11_completed_week3_in_progress"
-last_checkpoint: "2026-06-24: Lesson 11 completed - try/except, ValueError, ZeroDivisionError, multiple except blocks"
-next_command_expected: "Lesson 12: files (open, read, write) or VS Code debugger"
+current_lesson: 12
+current_topic: "Week 3 — files, logs, reports"
+status: "lesson_12_completed_week3_in_progress"
+last_checkpoint: "2026-07-03: Lesson 12 completed - open/read/write, line-by-line log processing, counters, f-strings, report.txt, FileNotFoundError"
+next_command_expected: "Lesson 13: VS Code debugger or modules (import, os, pathlib)"
 week_focus:
   - "functions, dicts, strings"
   - "GitHub push workflow"
@@ -17,5 +17,5 @@ study_mode:
 language_policy:
   primary: "Russian"
   secondary: "English terminology gradually increased"
-anki_cards_total: 68
+anki_cards_total: 72
 debts: "none"
