@@ -1,0 +1,8 @@
+CNC start
+Spindle
+Program running
+CNC stop
+CNC start
+Program running
+Spindle
+Program running
