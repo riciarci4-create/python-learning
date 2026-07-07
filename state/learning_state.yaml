@@ -1,10 +1,10 @@
 current_track: "Master Core"
 current_stage: "Python from zero"
-current_lesson: 14
-current_topic: "Week 3 — import and pathlib"
-status: "lesson_14_completed_week3_in_progress"
-last_checkpoint: "2026-07-04: Lesson 14 completed - import, pathlib.Path, cwd, __file__, parent, exists(), stable project-root paths"
-next_command_expected: "Lesson 15: os module or first look at Pillow"
+current_lesson: 16
+current_topic: "Week 3 — Pillow first look at images"
+status: "lesson_16_completed_week3_ready_for_week_exam"
+last_checkpoint: "2026-07-07: Lesson 16 completed - Pillow 12.3.0, Image.new, save, open, format, size, mode, RGB pixels, center coordinates"
+next_command_expected: "Week 3 Level 1 exam, then AI-session 2 or Month 1 project decision"
 week_focus:
   - "functions, dicts, strings"
   - "GitHub push workflow"
@@ -17,5 +17,5 @@ study_mode:
 language_policy:
   primary: "Russian"
   secondary: "English terminology gradually increased"
-anki_cards_total: 80
+anki_cards_total: 88
 debts: "none"
