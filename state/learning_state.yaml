@@ -6,9 +6,9 @@ status: "lesson_17_oop_reinforced_ready_to_continue"
 last_checkpoint: "2026-07-08: Lesson 17 reinforced - OOP state, self, return vs print, method calls, reuse, ImageLoader methods"
 next_command_expected: "Continue Week 4: Git branches / pull request, code review, or README/GitHub portfolio cleanup"
 week_focus:
-  - "functions, dicts, strings"
-  - "GitHub push workflow"
-  - "mini-project: calculator"
+  - "OOP and ImageLoader"
+  - "Git branches and pull request workflow"
+  - "Month 1 code review and completion"
 long_term_target: "AI Industrial Architect / Research Engineer"
 study_mode:
   schedule: "2/2"

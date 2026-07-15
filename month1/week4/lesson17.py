@@ -53,8 +53,10 @@ class ImageLoader:
     def get_summary(self):
         if self.image is None:
             return "Image is not loaded"
-        return (f"Format: {self.image.format}, size: {self.get_size()}, area: {self.get_area()}, large: {self.is_large()}")
-
+        return (f"Format: {self.image.format}, "
+                f"size: {self.get_size()}, "
+                f"area: {self.get_area()}, "
+                f"large: {self.is_large()}")
 
 
 loader = ImageLoader("assets/test_image.png")
