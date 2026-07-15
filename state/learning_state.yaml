@@ -1,10 +1,10 @@
-current_track: "Master Core"
+﻿current_track: "Master Core"
 current_stage: "Python from zero"
-current_lesson: 16
-current_topic: "Week 3 — Pillow first look at images"
-status: "month1_log_analyzer_v1_completed_ready_for_week4_oop"
-last_checkpoint: "2026-07-07: Month 1 log_analyzer v1 completed - sample_log analysis, report.txt, README"
-next_command_expected: "Week 4 OOP: why classes are needed, then ImageLoader"
+current_lesson: 18
+current_topic: "Week 4 — Git branches / pull request or final Month 1 code review"
+status: "lesson_17_oop_reinforced_ready_to_continue"
+last_checkpoint: "2026-07-08: Lesson 17 reinforced - OOP state, self, return vs print, method calls, reuse, ImageLoader methods"
+next_command_expected: "Continue Week 4: Git branches / pull request, code review, or README/GitHub portfolio cleanup"
 week_focus:
   - "functions, dicts, strings"
   - "GitHub push workflow"
@@ -17,5 +17,5 @@ study_mode:
 language_policy:
   primary: "Russian"
   secondary: "English terminology gradually increased"
-anki_cards_total: 88
+anki_cards_total: 94
 debts: "none"
