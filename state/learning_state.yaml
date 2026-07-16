@@ -1,10 +1,10 @@
 ﻿current_track: "Master Core"
 current_stage: "Python from zero"
-current_lesson: 18
-current_topic: "Week 4 — Git branches / pull request or final Month 1 code review"
-status: "lesson_17_oop_reinforced_ready_to_continue"
-last_checkpoint: "2026-07-08: Lesson 17 reinforced - OOP state, self, return vs print, method calls, reuse, ImageLoader methods"
-next_command_expected: "Continue Week 4: Git branches / pull request, code review, or README/GitHub portfolio cleanup"
+current_lesson: 19
+current_topic: "Week 4 — final Month 1 code review and exam preparation"
+status: "lesson_18_git_branch_pr_workflow_completed"
+last_checkpoint: "2026-07-16: Lesson 18 completed - branch, staging, commits, push, PR #1, review fixes, merge, pull, branch cleanup"
+next_command_expected: "Lesson 19: complete Month 1 code review, Week 4 review, then Level 1 and Level 2 exams"
 week_focus:
   - "OOP and ImageLoader"
   - "Git branches and pull request workflow"
@@ -17,5 +17,5 @@ study_mode:
 language_policy:
   primary: "Russian"
   secondary: "English terminology gradually increased"
-anki_cards_total: 94
+anki_cards_total: 98
 debts: "none"
