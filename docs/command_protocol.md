@@ -4,7 +4,7 @@
 
 Start the next lesson from the current checkpoint.
 
-Each lesson must include:
+Across the complete lesson, which may span several sessions, include:
 
 - lesson goal;
 - short theory;
@@ -12,6 +12,10 @@ Each lesson must include:
 - `3-5` tasks from simple to harder;
 - one engineering task;
 - mastery criteria.
+
+Tasks are presented one at a time. For a new construct, use the progression from
+worked example to faded example, independent task, and transfer task defined in
+`evidence_based_learning.md`.
 
 ## `ГОТОВО`
 

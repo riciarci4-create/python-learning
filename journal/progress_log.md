@@ -1,5 +1,8 @@
 ﻿# Progress Log
 
+> Status: archived early log. Current progress is maintained in local
+> `PROGRESS.md` and summarized in `state/learning_state.yaml`.
+
 ## Rules
 
 - add one short entry after each meaningful study session;

@@ -1,5 +1,8 @@
 ﻿# Month 1 Plan
 
+> Status: archived initial plan. It records the original intent but does not
+> define the current lesson order. Use local `PROGRESS.md` for operational truth.
+
 ## Objective
 
 Build the first operational Python layer and remove syntax fear.
