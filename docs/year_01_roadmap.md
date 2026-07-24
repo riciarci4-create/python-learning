@@ -1,5 +1,8 @@
 ﻿# Year 1 Roadmap
 
+> Status: archived initial outline. The frozen local `ROADMAP_RU.md` defines the
+> long-range strategy; local `PROGRESS.md` defines current execution.
+
 ## Quarter 1
 
 - Python fundamentals;

@@ -1,5 +1,8 @@
 ﻿# Learning System
 
+> Status: archived planning baseline. For the actual lesson order and current
+> rules, use local `PROGRESS.md`, `CLAUDE.md`, and `state/learning_state.yaml`.
+
 ## Goal
 
 Build a long-range trajectory from zero in programming to an engineer capable of designing, implementing, and eventually architecting AI systems for real industrial environments.

@@ -1,10 +1,10 @@
 ﻿current_track: "Master Core"
 current_stage: "Python from zero"
 current_lesson: 19
-current_topic: "Week 4 — final Month 1 code review and exam preparation"
-status: "lesson_18_git_branch_pr_workflow_completed"
-last_checkpoint: "2026-07-16: Lesson 18 completed - branch, staging, commits, push, PR #1, review fixes, merge, pull, branch cleanup"
-next_command_expected: "Lesson 19: complete Month 1 code review, Week 4 review, then Level 1 and Level 2 exams"
+current_topic: "Paused after Month 1 — final Git checkpoint before Month 2"
+status: "paused_at_final_month_1_git_checkpoint"
+last_checkpoint: "2026-07-20: Month 1 passed; 19 lesson notes migrated to notes/month1; Git checkpoint not yet committed"
+next_command_expected: "On ПРОДОЛЖИМ: review and stage the Month 1 changes, commit/push/PR, then start Month 2"
 week_focus:
   - "OOP and ImageLoader"
   - "Git branches and pull request workflow"
@@ -17,5 +17,7 @@ study_mode:
 language_policy:
   primary: "Russian"
   secondary: "English terminology gradually increased"
-anki_cards_total: 98
+anki_cards_total: 102
 debts: "none"
+learning_method: "evidence_based_v1_2026-07-16"
+mastery_gate: "month_1_passed"
