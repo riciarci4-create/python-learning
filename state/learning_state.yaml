@@ -1,10 +1,10 @@
 ﻿current_track: "Master Core"
 current_stage: "Python from zero"
 current_lesson: 19
-current_topic: "Paused after Month 1 — final Git checkpoint before Month 2"
-status: "paused_at_final_month_1_git_checkpoint"
-last_checkpoint: "2026-07-20: Month 1 passed; 19 lesson notes migrated to notes/month1; Git checkpoint not yet committed"
-next_command_expected: "On ПРОДОЛЖИМ: review and stage the Month 1 changes, commit/push/PR, then start Month 2"
+current_topic: "Month 1 final Pull Request #3 under review before Month 2"
+status: "month_1_final_pr_open"
+last_checkpoint: "2026-07-24: Month 1 commit 5b876ac pushed; PR #3 opened and reviewed; minor review fixes pending"
+next_command_expected: "Apply review fixes, push PR #3, merge, switch to local main, pull, then start Month 2"
 week_focus:
   - "OOP and ImageLoader"
   - "Git branches and pull request workflow"
