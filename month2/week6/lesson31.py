@@ -50,4 +50,3 @@ print(quality_report)
 
 quality_report_frame = pd.DataFrame([quality_report])
 print(quality_report_frame)
-
