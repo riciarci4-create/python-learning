@@ -1,0 +1,5 @@
+machine_id,model,workshop
+CNC-01,Lathe-X1,A
+CNC-02,Mill-M2,A
+CNC-03,Lathe-X1,B
+CNC-05,Robot-R3,B

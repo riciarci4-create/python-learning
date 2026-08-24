@@ -1,0 +1,5 @@
+machine_id,temperature,rpm,is_running
+CNC-01,68.5,1200,True
+CNC-02,72.0,1350,True
+CNC-03,91.5,0,False
+CNC-04,75.5,1420,True
