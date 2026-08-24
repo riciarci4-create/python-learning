@@ -13,6 +13,7 @@ The current checkpoint and lesson debt do not belong here. They remain in local
 ## Lesson indexes
 
 - [Month 1 — Python and Git](month1/README.md)
+- [Month 2 — Data foundations](month2/README.md)
 
 Create one separate durable note for every completed lesson and link it from the
 operational `PROGRESS.md`. A lesson note must preserve the full theory,

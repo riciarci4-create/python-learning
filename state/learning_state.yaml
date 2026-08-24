@@ -1,14 +1,15 @@
 ﻿current_track: "Master Core"
-current_stage: "Python from zero"
-current_lesson: 19
-current_topic: "Month 1 final Pull Request #3 under review before Month 2"
-status: "month_1_final_pr_open"
-last_checkpoint: "2026-07-24: Month 1 commit 5b876ac pushed; PR #3 opened and reviewed; minor review fixes pending"
-next_command_expected: "Apply review fixes, push PR #3, merge, switch to local main, pull, then start Month 2"
+current_stage: "Month 2 — data foundations"
+current_lesson: 31
+current_topic: "week 6 pandas consolidation completed"
+status: "week_6_code_review_completed_git_checkpoint_pending"
+last_checkpoint: "2026-08-21: Week 6 exam passed after correction; all lesson26-lesson31 scripts passed runtime review; lesson31 naming and threshold maintainability improved"
+next_command_expected: "Create a selective Git checkpoint for month 2 work, then conduct AI session 4 before week 7 SQL"
 week_focus:
-  - "OOP and ImageLoader"
-  - "Git branches and pull request workflow"
-  - "Month 1 code review and completion"
+  - "pandas DataFrame and Series"
+  - "CSV loading and type inference"
+  - "Column and row selection"
+  - "Filtering, grouping, merge, missing values, and outliers"
 long_term_target: "AI Industrial Architect / Research Engineer"
 study_mode:
   schedule: "2/2"
@@ -17,7 +18,7 @@ study_mode:
 language_policy:
   primary: "Russian"
   secondary: "English terminology gradually increased"
-anki_cards_total: 102
+anki_cards_total: 141
 debts: "none"
 learning_method: "evidence_based_v1_2026-07-16"
-mastery_gate: "month_1_passed"
+mastery_gate: "month_2_entry_passed"
