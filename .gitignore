@@ -23,6 +23,12 @@ assets/tmp/
 CLAUDE.md
 PROGRESS.md
 ROADMAP_RU.md
+.mentor-backups/
+
+# Local credentials (keep only a placeholder example in Git)
+.env
+.env.*
+!.env.example
 
 # Local generated study media
 notes/**/audio/
